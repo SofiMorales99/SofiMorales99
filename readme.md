@@ -16,3 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiMorales99&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://www.imagenspng.com.br/wp-content/uploads/2020/10/among-us-black-dead-body-png-01.png" width="300" heigth="400">
